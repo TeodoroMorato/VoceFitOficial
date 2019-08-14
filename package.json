@@ -10,7 +10,8 @@
   "dependencies": {
     "circular-std": "^1.0.0",
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.60.5",
+    "react-navigation": "^3.11.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
